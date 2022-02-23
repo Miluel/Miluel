@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miluel ! ! <img src="https://c.tenor.com/1qrL4H6t1oAAAAAC/hedgehog.gif" width="60" height="60" />
+- 👋 Hi, I’m @Miluel ! ! <img src="https://c.tenor.com/1qrL4H6t1oAAAAAC/hedgehog.gif" width="80" height="80" />
 
 - 🌱 I Have just begun my joruney into becoming a web developer. 
 
