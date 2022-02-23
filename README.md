@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miluel ! ![Alt text]https://c.tenor.com/1qrL4H6t1oAAAAAC/hedgehog.gif
+- 👋 Hi, I’m @Miluel ! ![Alt text](https://c.tenor.com/1qrL4H6t1oAAAAAC/hedgehog.gif)
 
 - 🌱 I Have just begun my joruney into becoming a web developer. 
 
