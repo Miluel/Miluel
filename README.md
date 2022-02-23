@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Miluel ![image](https://user-images.githubusercontent.com/100293823/155336848-47a571a8-732c-4ab2-b13a-0e3a425c2ed7.png)
-
+- 👋 Hi, I’m @Miluel ! ![Alt Text]![image](https://user-images.githubusercontent.com/100293823/155338656-6ab60c4f-ba36-4375-a741-80875762aef6.gif)
 
 - 🌱 I Have just begun my joruney into becoming a web developer. 
 
